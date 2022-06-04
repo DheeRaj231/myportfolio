@@ -1,4 +1,4 @@
-// script for toggling sidebar
+// script for toggling sidebar.
 document.querySelector(".cross").style.display = "none";
 document.querySelector(".hamburger").addEventListener("click", () => {
   document.querySelector(".sidebar").classList.toggle("sidebargo");

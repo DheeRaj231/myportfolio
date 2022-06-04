@@ -313,7 +313,7 @@ address {
   height: 20px;
   position: relative;
   background-color: rgba(0, 0, 0, 0.199);
-  border-radius: 25px;
+  border-radius: 24px;
   margin-top: 5px;
 }
 .skill-bar .bar span {
